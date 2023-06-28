@@ -1,0 +1,6 @@
+[submodule "alines-music-hub"]
+	path = alines-music-hub
+	url = https://github.com/alineralncs/alines-music-hub.git
+[submodule "django-music-api"]
+	path = django-music-api
+	url = https://github.com/alineralncs/django-music-api.git
